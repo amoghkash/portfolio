@@ -6,25 +6,38 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/c.png",
+                    "title": "C"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
                 },
                 {
                     "icon": "images/skills/python.png",
                     "title": "Python"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/bash.png",
+                    "title": "Bash"
+                },
+                {
+                    "icon": "images/skills/vhdl.png",
+                    "title": "VHDL"
+                },
+                {
+                    "icon": "images/skills/sv.png",
+                    "title": "System Verilog"
                 }
+                
         ]},
         {
             "title": "Frameworks & Technologies",

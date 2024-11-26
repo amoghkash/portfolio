@@ -1,19 +1,26 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+            "title": "2023 - 2027",
+            "cardTitle": "B.S. Computer Engineering",
+            "cardSubtitle":"Georgia Institute of Technology",
+            "cardDetailedText": "",
+            "media": {
+                "name": "georgia tech",
+                "source": {
+                  "url": "https://i.pinimg.com/originals/11/5e/f7/115ef74d27d226415cfa29e3977ccb1a.png"
+                },
+                "type": "IMAGE"
+            },
+            "icon": {
+                "src": "images/education/gt_logo.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "Apr 2023",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Urbana High School",
+            "cardDetailedText": "Frederick, MD"
         }
     ]
 }
