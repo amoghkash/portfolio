@@ -36,9 +36,84 @@
                 {
                     "icon": "images/skills/sv.png",
                     "title": "System Verilog"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
                 }
                 
         ]},
+        {
+            "title": "Hardware Development Tools",
+            "items" : [
+                {
+                    "icon": "images/skills/altium.png",
+                    "title": "Altium"
+                },
+                {
+                    "icon": "images/skills/kicad.png",
+                    "title": "KiCad"
+                },
+                {
+                    "icon": "images/skills/fusion360.png",
+                    "title": "Fusion360"
+                },
+                {
+                    "icon": "images/skills/vivado.png",
+                    "title": "Vivado"
+                },
+                {
+                    "icon": "images/skills/quartus.png",
+                    "title": "Quartus"
+                },
+                {
+                    "icon": "images/skills/matlab.png",
+                    "title": "MATLAB"
+                }
+            ]
+        },
+        {
+            "title" : "Embedded Systems & Tools",
+            "items": [
+                {
+                    "icon": "images/skills/riscv.png",
+                    "title": "riscv"
+                },
+                {
+                    "icon": "images/skills/arm.png",
+                    "title": "arm"
+                },
+                {
+                    "icon": "images/skills/jtag.png",
+                    "title": "JTAG"
+                },
+                {
+                    "icon": "images/skills/hil.png",
+                    "title": "Hardware-in-the-Loop"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/gcp.png",
+                    "title": "Google Cloud"
+                },
+                {
+                    "icon": "images/skills/linux.png",
+                    "title": "Linux"
+                }
+            ]
+        },
         {
             "title": "Frameworks & Technologies",
             "items" : [
@@ -55,22 +130,5 @@
                     "title": "Nodejs"
                 }
             ]
-        },
-        {
-            "title" : "Tools & Platforms",
-            "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
-                {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
-                }
-            ]
-    }
+        }
 ]}
