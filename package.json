@@ -46,13 +46,13 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "react-error-overlay": "6.0.9",
-    "@babel/plugin-proposal-private-property-in-object":"^7.21.11"
+    "react-error-overlay": "6.0.9"
   },
   "resolutions": {
     "react-error-overlay": "6.0.9"
